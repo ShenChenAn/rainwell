@@ -1,0 +1,282 @@
+[
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "THIRD-PARTY-NOTICES.txt",
+    "bytes": 1120,
+    "sha256": "dded0ca23a1e058dd6ae9aed8645f3a544e2845acc5c8c8a552811a6c00b184f"
+  },
+  {
+    "path": "assets/bare_oak.glb",
+    "bytes": 13121064,
+    "sha256": "315337f634e86d95d07a444a586aefe5d807dc07b7140cdf39c16045cd694f4d"
+  },
+  {
+    "path": "assets/carriage_shed.glb",
+    "bytes": 8013280,
+    "sha256": "21504d67ee9515605f6d7aec1794b66eaaffdd113b68d96552f021d57f683f87"
+  },
+  {
+    "path": "assets/floor-baked.glb",
+    "bytes": 5067520,
+    "sha256": "c2bf96f487c25c4f155c57245b7308a7fe606902cb48a35414e6c838fe33dc6c"
+  },
+  {
+    "path": "assets/forest-original.glb",
+    "bytes": 2258240,
+    "sha256": "e201539cf87fefc786a541a2edd5191169098a9dafa7a8e3818e3de61a1a8fbd"
+  },
+  {
+    "path": "assets/handcart.glb",
+    "bytes": 7115272,
+    "sha256": "e3162b9a856fa228556949051bf4dd133f9c64e8ba1f5b421d0ee5b3ab358e2e"
+  },
+  {
+    "path": "assets/hero-medium.glb",
+    "bytes": 33408112,
+    "sha256": "666fd66147062449a47bc4f0f40b9e0c8d65feb7af2fb11d8703c5d432d209e1"
+  },
+  {
+    "path": "assets/market_canopy.glb",
+    "bytes": 7112088,
+    "sha256": "4560557c3294e6e60ad3e1f95f13b23870740a90a580f71da2116360f179fde6"
+  },
+  {
+    "path": "assets/materials/arched_gate-medium-normal.png",
+    "bytes": 1617324,
+    "sha256": "90d2f6f8f51ed15b95d802ab8323716299318e4a0978eedc4185a52eab6a4784"
+  },
+  {
+    "path": "assets/materials/court-stage0.exr",
+    "bytes": 2401964,
+    "sha256": "d3318ff20159a829cbec66b6616c3f20f9bd043d9d7a855e973d258a716561e7"
+  },
+  {
+    "path": "assets/materials/court-stage1.exr",
+    "bytes": 2391705,
+    "sha256": "3a62055d707592e3c6f3740a5054bb0465277eb13b54d01bf8b628210bdc4053"
+  },
+  {
+    "path": "assets/materials/court-stage2.exr",
+    "bytes": 2382809,
+    "sha256": "190a0256f7418308e3c71e765d47b1e40d53664e54917c33af965b7acdcb18b6"
+  },
+  {
+    "path": "assets/materials/court-stage3.exr",
+    "bytes": 2386758,
+    "sha256": "063c1a32c485dffd4f064764bb901b23f74b803139d9efbf179fa4f57b9d7ff1"
+  },
+  {
+    "path": "assets/materials/hero_well-ao.png",
+    "bytes": 583971,
+    "sha256": "7a82f8e4ef4baa90539ae2d2abef3367dcf907d3eb19025f4d03e758e6d83a4d"
+  },
+  {
+    "path": "assets/materials/hero_well-medium-normal.png",
+    "bytes": 1825846,
+    "sha256": "5c65363428116141784357f642e7a22114ab0ab4893ce8527c4456d62104d6e9"
+  },
+  {
+    "path": "assets/materials/hero_well-normal.png",
+    "bytes": 1005799,
+    "sha256": "3b8b2ee6d2355c133517d009df356d95ffdb70302a64ecdd00a4d2aff1d2bcd9"
+  },
+  {
+    "path": "assets/materials/hero_well-roughness.png",
+    "bytes": 715751,
+    "sha256": "c01a7b208ce2b0c2426d3e3c167bd5a79a65f5f61a0197a47ec1e3340e028e6a"
+  },
+  {
+    "path": "assets/materials/hero_well-stage0.exr",
+    "bytes": 3430213,
+    "sha256": "922d3837917466f5024248630f45f0fc97048bb17c140803dacde55afaab8501"
+  },
+  {
+    "path": "assets/materials/hero_well-stage1.exr",
+    "bytes": 3425484,
+    "sha256": "d230861fd2dc10c45628bdb0c9525c63d2fc9316b825340389867f30bcea4065"
+  },
+  {
+    "path": "assets/materials/hero_well-stage2.exr",
+    "bytes": 3421242,
+    "sha256": "1433207a7ce6e4da99eab90d5e2a639c8aabca00f454a6c009b42ac18cc43029"
+  },
+  {
+    "path": "assets/materials/hero_well-stage3.exr",
+    "bytes": 3410350,
+    "sha256": "b5135981d31aed0d58a81f3df8ca231fa8e16ae2b81b50062e56532de6a377e4"
+  },
+  {
+    "path": "assets/materials/lantern_post-medium-normal.png",
+    "bytes": 1644615,
+    "sha256": "f3a8a5893b5e7cf1963a827337480ccab907ebbc58f34006f1116893c22ddee4"
+  },
+  {
+    "path": "assets/materials/market_stall-medium-normal.png",
+    "bytes": 1948099,
+    "sha256": "ff6ae6b69baf8069c572f8fcddc4df9019a33335df3e191bda7b454d47e45874"
+  },
+  {
+    "path": "assets/materials/stone_cottage-ao.png",
+    "bytes": 521555,
+    "sha256": "609bcdfebd573b38cf4270a6abbb498ead71ce7fdac8bb6a6bf7e88cf01a89d8"
+  },
+  {
+    "path": "assets/materials/stone_cottage-medium-normal.png",
+    "bytes": 1570184,
+    "sha256": "2776f2fc584bc4bacb089e690701ad6d6d02f7a77a02d1758928918e219d71d1"
+  },
+  {
+    "path": "assets/materials/stone_cottage-normal.png",
+    "bytes": 945519,
+    "sha256": "cb52caa57bf230b28c00e6b455ae0e210e216ce4b1e1d8724f538928b0d206ce"
+  },
+  {
+    "path": "assets/materials/stone_cottage-roughness.png",
+    "bytes": 760628,
+    "sha256": "3342c0ed154af13f11433148555ceda87f298ce4c9b51f3898872d176559a622"
+  },
+  {
+    "path": "assets/materials/stone_cottage-stage0.exr",
+    "bytes": 4798336,
+    "sha256": "c3f19a6abca700749c0467fcd4c7c735d6258a3927a8f26ce0ff9320b4afa3ed"
+  },
+  {
+    "path": "assets/materials/stone_cottage-stage1.exr",
+    "bytes": 4794308,
+    "sha256": "ad6bedc09209d5930c83a3b35afd34907e35b98614db43debaa4d0e49601a2a3"
+  },
+  {
+    "path": "assets/materials/stone_cottage-stage2.exr",
+    "bytes": 4795604,
+    "sha256": "bff696c323ed383bb0cdc6085bda10dfefa3efbdb09997598b07ebccfaaadab3"
+  },
+  {
+    "path": "assets/materials/stone_cottage-stage3.exr",
+    "bytes": 4795538,
+    "sha256": "74105a9096a52e335bb284db68d5dc2d95bcd271bd3735f9eb9c3127ff1b8bd2"
+  },
+  {
+    "path": "assets/materials/stone_steps-medium-normal.png",
+    "bytes": 1646802,
+    "sha256": "52c6f36a347053c6ca74c884393b03e13b75ca5613f5fdc22a826444e39aea90"
+  },
+  {
+    "path": "assets/materials/timber_cottage-ao.png",
+    "bytes": 471206,
+    "sha256": "6b57f4883b7e39e9ad2db69e2c48461a9a32a7457100b52059e7338d545b5b16"
+  },
+  {
+    "path": "assets/materials/timber_cottage-medium-normal.png",
+    "bytes": 1679793,
+    "sha256": "ddfe9f284a0c44e1084ce0db0f8a96142a260e00d8e827a618fb6f2e3f28bf78"
+  },
+  {
+    "path": "assets/materials/timber_cottage-normal.png",
+    "bytes": 899000,
+    "sha256": "149d2026bd14d906041b1e0d7f29190d888f799c2c50e12eaf5f7829fe99e680"
+  },
+  {
+    "path": "assets/materials/timber_cottage-roughness.png",
+    "bytes": 794268,
+    "sha256": "94c4ee5f6c47ae93fddca69539304a88cfd7157a2acebd0e6f3eefce3aa0cfc1"
+  },
+  {
+    "path": "assets/materials/timber_cottage-stage0.exr",
+    "bytes": 2806032,
+    "sha256": "bbfc811fae6825fa509a9a8f4ceb8f35372f1cd5abb1aaf3ef3fdb60bebc26d4"
+  },
+  {
+    "path": "assets/materials/timber_cottage-stage1.exr",
+    "bytes": 2792028,
+    "sha256": "60d3f7fa263744a22616598563de2be86d3273ea9784fe851f358b1cf185724b"
+  },
+  {
+    "path": "assets/materials/timber_cottage-stage2.exr",
+    "bytes": 2772459,
+    "sha256": "5ced5673d6d611e58a4c6604b02c793b41efa15763ab6b5bdd0dc31d76e510a6"
+  },
+  {
+    "path": "assets/materials/timber_cottage-stage3.exr",
+    "bytes": 2768635,
+    "sha256": "d5c6cd281684306b8e58e2364d2568c84084fed6a166288a666e05eb08150d6e"
+  },
+  {
+    "path": "assets/memorial_stones.glb",
+    "bytes": 6114028,
+    "sha256": "0d40cb15f6c86fac86138d76bd6d57195960960e9d20b39f0e780535488361b7"
+  },
+  {
+    "path": "assets/old_stump.glb",
+    "bytes": 9546024,
+    "sha256": "7ae7535887feb6d55bb840aa6d7f922248766748fc9ccc478aadc95a853fbc9d"
+  },
+  {
+    "path": "assets/shrine_ruin.glb",
+    "bytes": 9843136,
+    "sha256": "ab00c198399d1b295040ba651ddac69a81aa2025ea6c8dd8de3080ff984e6eb1"
+  },
+  {
+    "path": "assets/stone_altar.glb",
+    "bytes": 8021608,
+    "sha256": "fc1a6222719802c0e98f1cd2498d3a876a01b89550e93bfc2bb78ed6d784b67d"
+  },
+  {
+    "path": "assets/stone_house.glb",
+    "bytes": 10210884,
+    "sha256": "fa64ab3684ee8c58e45df293a5b4565a7e380927ec0dd994bfb8fa68ce509d6d"
+  },
+  {
+    "path": "assets/stone_wall.glb",
+    "bytes": 6935848,
+    "sha256": "84ad1f13087cdad0e24339d23905aa9787b62689c9ccb8a1ea565c0666eaf0c7"
+  },
+  {
+    "path": "assets/timber_house.glb",
+    "bytes": 9357048,
+    "sha256": "24adc609121300dd1d0e7029fddf9160e60ac8c2319ed8eed6c46bd8695ce7d3"
+  },
+  {
+    "path": "assets/ui/paper-grain.svg",
+    "bytes": 589,
+    "sha256": "7d2f12a3e03e615c83e7bc45355145a282c1e5577edecaf4ecdfc58c0cdad875"
+  },
+  {
+    "path": "assets/ui/rainwell-ink-title.png",
+    "bytes": 1276178,
+    "sha256": "1a8d86fe3104de325d81387b52c536c62258bf1a3f92cd787d323ea35b9049b1"
+  },
+  {
+    "path": "assets/village.glb",
+    "bytes": 79029856,
+    "sha256": "6a935472fc7710367bbb6c14355aff3b911a31421b1fadb96aa45ff15474d41f"
+  },
+  {
+    "path": "assets/woodpile.glb",
+    "bytes": 7225172,
+    "sha256": "411a41112cbba48c6eb16b5d7650310b1ba01cc012c0caa47f37319bd2da9d54"
+  },
+  {
+    "path": "game-match.js",
+    "bytes": 1072915,
+    "sha256": "2774d921bfda4461d9335421f245403ed61090175eff3d82f5d32609f7f45ec9"
+  },
+  {
+    "path": "index.html",
+    "bytes": 5103,
+    "sha256": "028155ff60143855d9ff84bf153bdb950a742c81a76b04de2bb85184ec34bb49"
+  },
+  {
+    "path": "manuscript.css",
+    "bytes": 13152,
+    "sha256": "ab5fb2884a949cbd6164eb3dbc1c6d17710d392cbfe13a5659a11b918f3f143c"
+  },
+  {
+    "path": "style.css",
+    "bytes": 7592,
+    "sha256": "f757fe1f31f0429dea9525a60fd7dda51c714bf576a059b16523635b1c999e8b"
+  }
+]

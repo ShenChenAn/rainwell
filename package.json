@@ -1,0 +1,17 @@
+{
+  "name": "rainwell",
+  "version": "0.6.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild src/main.js --bundle --format=esm --minify --outfile=docs/game-match.js",
+    "test": "node --test src/*.test.mjs",
+    "start": "python3 -m http.server 8772 --bind 127.0.0.1 --directory docs"
+  },
+  "dependencies": {
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
