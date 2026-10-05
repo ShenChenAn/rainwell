@@ -36,3 +36,5 @@ npm start
 ## Mini checkout
 
 Current working path: `/Users/chenan/Workspaces/demos/rainwell-village-game`. This remains the `ShenChenAn/rainwell` repository; `docs/` is the runnable published-site tree and its assets must remain together.
+
+MacBook viewing: `ssh -N -L 8772:127.0.0.1:8772 chenan@chenans-mac-mini`, then open http://127.0.0.1:8772. The server stays bound to mini localhost.
