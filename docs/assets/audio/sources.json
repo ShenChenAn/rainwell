@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2718",
+    "source": "https://bigsoundbank.com/thunder-s2718.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/2718.mp3",
+    "license": "CC0 1.0",
+    "bytes": 362469,
+    "file": "assets/audio/thunder-2718.mp3",
+    "trimStart": 0.4,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN"
+  },
+  {
+    "id": "3113",
+    "source": "https://bigsoundbank.com/thunder-2-s3113.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3113.mp3",
+    "license": "CC0 1.0",
+    "bytes": 71592,
+    "file": "assets/audio/thunder-3113.mp3",
+    "trimStart": 0.68,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  },
+  {
+    "id": "3114",
+    "source": "https://bigsoundbank.com/thunder-3-s3114.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3114.mp3",
+    "license": "CC0 1.0",
+    "bytes": 173574,
+    "file": "assets/audio/thunder-3114.mp3",
+    "trimStart": 0.48,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  },
+  {
+    "id": "3115",
+    "source": "https://bigsoundbank.com/thunder-4-s3115.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3115.mp3",
+    "license": "CC0 1.0",
+    "bytes": 270958,
+    "file": "assets/audio/thunder-3115.mp3",
+    "trimStart": 0.4,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  },
+  {
+    "id": "3116",
+    "source": "https://bigsoundbank.com/thunder-5-s3116.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3116.mp3",
+    "license": "CC0 1.0",
+    "bytes": 345773,
+    "file": "assets/audio/thunder-3116.mp3",
+    "trimStart": 0.4,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  },
+  {
+    "id": "3179",
+    "source": "https://bigsoundbank.com/thunder-6-s3179.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3179.mp3",
+    "license": "CC0 1.0",
+    "bytes": 217916,
+    "file": "assets/audio/thunder-3179.mp3",
+    "trimStart": 0.28,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  },
+  {
+    "id": "3180",
+    "source": "https://bigsoundbank.com/thunder-7-s3180.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/3180.mp3",
+    "license": "CC0 1.0",
+    "bytes": 208721,
+    "file": "assets/audio/thunder-3180.mp3",
+    "trimStart": 0.02,
+    "processing": "highpass=f=35,equalizer=f=180:t=q:w=0.8:g=2,afade=t=in:d=0.012,loudnorm=I=-20:TP=-2:LRA=14",
+    "author": "Joseph SARDIN & Axeline T."
+  }
+]

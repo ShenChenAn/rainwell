@@ -1,6 +1,6 @@
 {
-  "name": "rainwell",
-  "version": "0.6.1",
+  "name": "rainwell-village-game",
+  "version": "0.6.8",
   "private": true,
   "type": "module",
   "scripts": {

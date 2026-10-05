@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#100d0a"><title>雨井 · 雷声停下之前</title><link rel="stylesheet" href="style.css?v=0.4.0"><link rel="stylesheet" href="manuscript.css?v=0.6.1"><link rel="preload" as="image" href="assets/ui/rainwell-ink-title.png"></head>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#100d0a"><title>雨井 · 雷声停下之前</title><link rel="stylesheet" href="style.css?v=0.4.0"><link rel="stylesheet" href="manuscript.css?v=0.6.1"><link rel="preload" as="image" href="assets/ui/rainwell-ink-title.png"><link rel="stylesheet" href="inspection.css?v=0.6.7"></head>
 <body data-phase="menu">
 <main id="stage" aria-label="第一人称村庄游戏"></main><div id="base-vignette"></div><div id="threat-vignette"></div><div id="fade"></div><div id="page-turn" aria-hidden="true"></div>
 <div id="loader"><img src="assets/ui/rainwell-ink-title.png" alt="雨井"><p class="loading-verse">纸上的雨，还没有停。</p><progress id="load-progress" max="1" value="0" aria-label="村庄加载进度"></progress><p id="load-text">正在翻开这一页。</p></div>
@@ -13,4 +13,13 @@
 <section id="failure" class="overlay end-overlay manuscript-overlay" hidden><div class="panel compact paper"><div class="tiny">这一页，断在这里</div><h2>脚步停在了身后。</h2><p class="story">你没能赶在黑暗之前，<br>回到那盏灯下。</p><p id="failure-progress" class="small"></p><button id="retry" class="primary">回到井边的灯下</button><button id="failure-menu" class="text-button">返回封面</button></div></section>
 <section id="ending" class="overlay end-overlay manuscript-overlay" hidden><div class="panel compact paper"><div class="tiny">手稿末页</div><h2>你回来了。</h2><p class="story ending-lines"><span>雨声从很远的地方传来。</span><br><span>这一次，身后没有脚步。</span></p><p id="ending-stats" class="small"></p><div class="complete-label">归井 · 已通关</div><button id="play-again" class="primary">再入雨夜</button></div></section>
 <section id="confirm" class="overlay end-overlay manuscript-overlay" hidden><div class="panel compact paper"><div class="tiny">覆盖旧的字迹</div><h2>重新翻开手稿？</h2><p class="small">已找到的道具和当前进度将被清除。</p><button id="confirm-new" class="primary">抹去记录，重新开始</button><button id="cancel-new" class="text-button">保留这一页</button></div></section>
-<script type="module" src="game-match.js?v=0.6.1"></script></body></html>
+<section id="relic-inspection" role="dialog" aria-modal="true" aria-labelledby="relic-title" aria-describedby="relic-lore" hidden>
+ <div class="relic-layout">
+  <div class="relic-display">
+   <div id="relic-viewport" role="group" aria-label="遗物三维模型。按住左键拖动或使用方向键旋转。" tabindex="0"><div class="relic-loading"><p id="relic-status" role="status"></p><button id="relic-retry" class="text-button" hidden>重新辨认</button></div></div>
+   <p class="relic-controls">按住左键 · 转动遗物 <span>方向键亦可</span></p>
+  </div>
+  <div class="relic-annotation"><p class="relic-acquired"><span id="relic-number"></span>拾得遗物</p><h2 id="relic-title"></h2><div id="relic-lore"></div><button id="relic-close" class="primary"><span>收下遗物</span><kbd>E</kbd></button><p class="relic-pause-note">检阅期间，黑暗不会逼近。</p></div>
+ </div>
+</section>
+<script type="module" src="game-match.js?v=0.6.8"></script></body></html>

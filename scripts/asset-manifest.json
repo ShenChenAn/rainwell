@@ -6,8 +6,48 @@
   },
   {
     "path": "THIRD-PARTY-NOTICES.txt",
-    "bytes": 1120,
-    "sha256": "dded0ca23a1e058dd6ae9aed8645f3a544e2845acc5c8c8a552811a6c00b184f"
+    "bytes": 1497,
+    "sha256": "a4d348bf5772b0969f12f4264faf5c13b1c0debbf2c2381ce1ae77bbfab0b9c0"
+  },
+  {
+    "path": "assets/audio/sources.json",
+    "bytes": 2952,
+    "sha256": "f629dc0c1de0ee17330b8df9ba30b30df72cc55c468c3baa9275384545cd92e0"
+  },
+  {
+    "path": "assets/audio/thunder-2718.mp3",
+    "bytes": 362469,
+    "sha256": "bf5f2b4e826ed01595af1de1dedf21083efb012514e56b6d5db91554591a7bb6"
+  },
+  {
+    "path": "assets/audio/thunder-3113.mp3",
+    "bytes": 71592,
+    "sha256": "0ce6bdb62fdf0b3d435f8ec805e03d4f9abf7f637ea6e473d96fe1f4b57510b3"
+  },
+  {
+    "path": "assets/audio/thunder-3114.mp3",
+    "bytes": 173574,
+    "sha256": "cc11d1dec23cf435359114f854fcdbe2b89c269a5833d0e349068d956b0f25f2"
+  },
+  {
+    "path": "assets/audio/thunder-3115.mp3",
+    "bytes": 270958,
+    "sha256": "10acecbda65e5f1a5092d07b6fddf3e00bf9e56a410a30d4483de358beb5098e"
+  },
+  {
+    "path": "assets/audio/thunder-3116.mp3",
+    "bytes": 345773,
+    "sha256": "d42cb46d5abddd0d0c89d97edac8e2ddc88d79bc9a2410dc511e734a629804d9"
+  },
+  {
+    "path": "assets/audio/thunder-3179.mp3",
+    "bytes": 217916,
+    "sha256": "c30c332c0ba7d682be4f8f16e504f4e77df5b2e56c7f74996851c0e1833f3716"
+  },
+  {
+    "path": "assets/audio/thunder-3180.mp3",
+    "bytes": 208721,
+    "sha256": "1c53854c50a602450d0c89c7c4913980012037407dc10fce184d67a096de6259"
   },
   {
     "path": "assets/bare_oak.glb",
@@ -215,6 +255,21 @@
     "sha256": "7ae7535887feb6d55bb840aa6d7f922248766748fc9ccc478aadc95a853fbc9d"
   },
   {
+    "path": "assets/relics/crank.glb",
+    "bytes": 7160612,
+    "sha256": "5db72e0f5ae5a5ff4588daffaf19161938496d47a4d46f6fa64da735cf6622ff"
+  },
+  {
+    "path": "assets/relics/key.glb",
+    "bytes": 8125548,
+    "sha256": "91863db89ba48545a043ff2cba0747a195bab00ada9e3ea517d4a88ebe7bd659"
+  },
+  {
+    "path": "assets/relics/seal.glb",
+    "bytes": 7870332,
+    "sha256": "f0153b160a1010262a2ef12f73d09b259d7384adf721bf3ef79956d3be11a909"
+  },
+  {
     "path": "assets/shrine_ruin.glb",
     "bytes": 9843136,
     "sha256": "ab00c198399d1b295040ba651ddac69a81aa2025ea6c8dd8de3080ff984e6eb1"
@@ -261,13 +316,18 @@
   },
   {
     "path": "game-match.js",
-    "bytes": 1072915,
-    "sha256": "2774d921bfda4461d9335421f245403ed61090175eff3d82f5d32609f7f45ec9"
+    "bytes": 1088936,
+    "sha256": "0bd68d0b0c99cd5b3d648b5a72a7c1852311faf434bea7f4dd2510bb18b4dc8f"
   },
   {
     "path": "index.html",
-    "bytes": 5103,
-    "sha256": "028155ff60143855d9ff84bf153bdb950a742c81a76b04de2bb85184ec34bb49"
+    "bytes": 6070,
+    "sha256": "0b78a21398b700e1d9f480f8016d23b9288f627b5e8ccd2565dcdb915ade9a67"
+  },
+  {
+    "path": "inspection.css",
+    "bytes": 3669,
+    "sha256": "d381db07f637176c56657f4b57101ffbd2e0cde6816cfa7e35b99027e09173ef"
   },
   {
     "path": "manuscript.css",

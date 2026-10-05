@@ -23,3 +23,17 @@ test('final-stage storms retain one delayed thunder per flash at rapid cadence',
  }
  assert.ok(count>=39);assert.ok(w.flashes-w.thunders<=1);
 });
+
+
+test('village entry opens with one near strike, then returns to the existing storm cadence',()=>{
+ for(const dt of [1/60,.5]){
+  const w=new StormTimeline(()=>.99);w.reset(0,{opening:true});const events=[];
+  for(let i=0;i<Math.ceil(8/dt);i++)for(const e of w.update(dt,0))events.push({...e,time:w.time});
+  assert.equal(events.length,2);assert.equal(events[0].type,'flash');assert.equal(events[0].near,true);
+  assert.ok(events[0].time>=1&&events[0].time<=1.51);
+  assert.equal(events[1].type,'thunder');assert.equal(events[1].near,true);
+  assert.ok(events[1].time>events[0].time);assert.ok(events[1].time-events[0].time<=.51);
+  assert.ok(w.next-events[0].time>=18);assert.equal(w.opening,false);
+  w.reset(0);assert.equal(w.next,7);assert.equal(w.pending,null);
+ }
+});

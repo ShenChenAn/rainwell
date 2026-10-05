@@ -22,3 +22,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+Thunder field recordings (CC0 1.0)
+Joseph SARDIN & Axeline T. — BigSoundBank.com
+https://bigsoundbank.com/licenses.html
+Sound 2718 by Joseph SARDIN; 3113, 3114, 3115, 3116, 3179, 3180 by Joseph SARDIN & Axeline T.
+Edited: leading silence trimmed, high-pass EQ, low-mid EQ, loudness matching, mono MP3 encoding.
+Source URLs and processing details: assets/audio/sources.json

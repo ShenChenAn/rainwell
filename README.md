@@ -32,3 +32,7 @@ npm start
 - `scripts/asset-manifest.json`：发布资源的大小和 SHA-256 校验值。
 
 版本 0.6.1。三维资产由 Lux3D 工作流制作，照明与部分材质经 Blender 烘焙，标题图由图像生成工具制作。第三方软件许可见 docs/THIRD-PARTY-NOTICES.txt。此仓库未为原创代码和美术资产额外授予开源许可。
+
+## Mini checkout
+
+Current working path: `/Users/chenan/Workspaces/demos/rainwell-village-game`. This remains the `ShenChenAn/rainwell` repository; `docs/` is the runnable published-site tree and its assets must remain together.
